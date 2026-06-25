@@ -17,4 +17,4 @@ Developed an interactive Power BI dashboard to analyze social media usage patter
 - User Engagement Analysis
 
 ## Author
-Zuheenthar S.
+Zuheenthar S.I
